@@ -1,2 +1,3 @@
-# Text-to-voice-converter
-A desktop application used to convert your written text to a voiced audio file
+PDF-to-Audiobook-converter
+an application used to convert your PDF file into a voiced audio file (AudioBook) 
+
